@@ -1,0 +1,20 @@
+p=3 n=19 mode=unit d>=4
+TOTAL p=3 n=19 codes=0 time=0.0s
+p=3 n=19 mode=unit d>=4
+  r=4 m=15: nodes=1354360512 codes=0 time=20681.3s
+TOTAL p=3 n=19 codes=0 time=20681.3s
+p=3 n=19 mode=unit d>=4
+  r=5 m=14: nodes=1614520827 codes=0 time=16096.6s
+TOTAL p=3 n=19 codes=0 time=16096.6s
+p=3 n=19 mode=unit d>=4
+  r=6 m=13: nodes=409485538 codes=0 time=4050.0s
+TOTAL p=3 n=19 codes=0 time=4050.0s
+p=3 n=19 mode=unit d>=4
+  r=7 m=12: nodes=30199404 codes=0 time=382.7s
+TOTAL p=3 n=19 codes=0 time=382.7s
+p=3 n=19 mode=unit d>=4
+  r=8 m=11: nodes=2330679 codes=0 time=26.6s
+TOTAL p=3 n=19 codes=0 time=26.6s
+p=3 n=19 mode=unit d>=4
+  r=9 m=10: nodes=228024 codes=0 time=2.1s
+TOTAL p=3 n=19 codes=0 time=2.1s
