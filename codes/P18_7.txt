@@ -1,0 +1,13 @@
+# P18_7: [[18,1,6]]_7^P
+# construction: cyclic, support {2,5,8,11,12,14,15,17}
+# distance 6: upper bound = explicit Z-logical below; lower bound = exhaustive search (no logical of smaller weight)
+# P-code: rows below are the stabilizers S; the logical row is the all-ones vector
+3 6 1 1 3 0 1 2 5 5 1 0 0 0 0 0 0 0
+6 1 1 3 0 3 2 5 5 1 0 1 0 0 0 0 0 0
+4 0 0 0 0 0 2 0 0 0 0 0 1 0 0 0 0 0
+0 4 0 0 0 0 0 2 0 0 0 0 0 1 0 0 0 0
+0 0 4 0 0 0 0 0 2 0 0 0 0 0 1 0 0 0
+0 0 0 4 0 0 0 0 0 2 0 0 0 0 0 1 0 0
+1 2 5 5 5 0 5 3 4 4 0 0 0 0 0 0 1 0
+2 5 5 1 0 5 3 4 4 5 0 0 0 0 0 0 0 1
+# witness: 0 0 1 0 0 0 0 0 5 6 0 3 0 0 0 2 0 1

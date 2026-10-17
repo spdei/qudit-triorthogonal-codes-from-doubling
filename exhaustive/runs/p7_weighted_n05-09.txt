@@ -1,0 +1,38 @@
+p=7 n=5 mode=weighted d>=3
+  r=2 m=3: nodes=207 codes=0 time=0.0s
+TOTAL p=7 n=5 codes=0 time=0.0s
+p=7 n=6 mode=weighted d>=3
+  r=2 m=4: nodes=1092 codes=0 time=0.0s
+TOTAL p=7 n=6 codes=0 time=0.0s
+p=7 n=7 mode=weighted d>=3
+  CODE p=7 r=2 m=5
+    w : 11 11111
+    h : 00 11133
+    a1 : 10 15626
+    a2 : 01 16562
+  r=2 m=5: nodes=8241 codes=1 time=0.0s
+  r=3 m=4: nodes=1836 codes=0 time=0.0s
+TOTAL p=7 n=7 codes=1 time=0.0s
+p=7 n=8 mode=weighted d>=3
+  CODE p=7 r=2 m=6
+    w : 33 111123
+    h : 00 113331
+    a1 : 10 123465
+    a2 : 01 326326
+  CODE p=7 r=2 m=6
+    w : 33 111123
+    h : 00 113331
+    a1 : 10 142536
+    a2 : 01 155313
+  CODE p=7 r=2 m=6
+    w : 23 111133
+    h : 00 011313
+    a1 : 10 335116
+    a2 : 01 316624
+  r=2 m=6: nodes=80317 codes=20 time=0.8s
+  r=3 m=5: nodes=14032 codes=0 time=0.1s
+TOTAL p=7 n=8 codes=20 time=0.9s
+p=7 n=9 mode=weighted d>=3
+  r=3 m=6: nodes=144622 codes=0 time=1.5s
+  r=4 m=5: nodes=21157 codes=0 time=0.1s
+TOTAL p=7 n=9 codes=0 time=1.6s

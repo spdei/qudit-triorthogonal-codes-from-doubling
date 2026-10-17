@@ -1,0 +1,7 @@
+p=3 n=17 mode=unit d>=3
+  r=4 m=13: nodes=35240565 codes=0 time=130.7s
+  r=5 m=12: nodes=17319495 codes=0 time=53.8s
+  r=6 m=11: nodes=2284606 codes=0 time=8.1s
+  r=7 m=10: nodes=228013 codes=0 time=0.8s
+  r=8 m=9: nodes=27683 codes=0 time=0.1s
+TOTAL p=3 n=17 codes=0 time=193.5s

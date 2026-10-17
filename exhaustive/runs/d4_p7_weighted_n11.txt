@@ -1,0 +1,9 @@
+p=7 n=11 mode=weighted d>=4
+  r=3 m=8: nodes=52665211 codes=0 time=5380.0s
+TOTAL p=7 n=11 codes=0 time=5380.0s
+p=7 n=11 mode=weighted d>=4
+  r=4 m=7: nodes=3225900 codes=0 time=185.9s
+TOTAL p=7 n=11 codes=0 time=185.9s
+p=7 n=11 mode=weighted d>=4
+  r=5 m=6: nodes=307989 codes=0 time=8.4s
+TOTAL p=7 n=11 codes=0 time=8.4s

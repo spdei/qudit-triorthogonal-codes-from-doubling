@@ -1,0 +1,6 @@
+TOTAL p=5 n=7 codes=0 time=0.0s
+TOTAL p=5 n=8 codes=0 time=0.0s
+TOTAL p=5 n=9 codes=0 time=0.0s
+TOTAL p=5 n=10 codes=0 time=0.2s
+TOTAL p=5 n=11 codes=0 time=3.2s
+TOTAL p=5 n=12 codes=0 time=68.2s

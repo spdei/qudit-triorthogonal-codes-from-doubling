@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+codes/cache.json
+distillation/wd3
+distillation/seq_*.pkl
+distillation/distillation_cost.pdf
+exhaustive/triorth
+exhaustive/test_dcheck
+searches/multi_output_search_*.json
+*.log
+nohup.out

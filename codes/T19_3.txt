@@ -1,0 +1,13 @@
+# T19_3: [[19,1,3]]_3
+# construction: cyclic construction B, n=20, explicit matrix of arXiv:2610.08012
+# distance 3: upper bound = explicit Z-logical below; lower bound = exhaustive search (no logical of smaller weight)
+# triorthogonal matrix: first row = logical row, then '-', then stabilizer rows
+# weights: all 1
+0 0 0 0 0 2 2 1 1 2 0 2 0 1 0 1 2 2 1
+-
+1 0 0 0 0 1 0 1 0 2 2 1 2 2 1 2 2 0 1
+0 1 0 0 0 1 2 2 0 1 2 0 1 1 2 0 0 0 2
+0 0 1 0 0 2 0 0 0 2 1 1 0 2 1 0 2 2 1
+0 0 0 1 0 1 0 2 2 1 2 2 1 2 2 0 1 0 1
+0 0 0 0 1 1 2 2 1 0 1 0 2 0 2 1 1 2 2
+# witness: 0 0 0 1 0 0 0 0 0 1 0 0 0 2 0 0 0 0 0

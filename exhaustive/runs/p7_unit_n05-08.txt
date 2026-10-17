@@ -1,0 +1,26 @@
+p=7 n=5 mode=unit-cost d>=3
+  r=2 m=3: nodes=4 codes=0 time=0.0s
+TOTAL p=7 n=5 codes=0 time=0.0s
+p=7 n=6 mode=unit-cost d>=3
+  r=2 m=3: nodes=8 codes=0 time=0.0s
+  r=2 m=4: nodes=12 codes=0 time=0.0s
+TOTAL p=7 n=6 codes=0 time=0.0s
+p=7 n=7 mode=unit-cost d>=3
+  r=2 m=3: nodes=18 codes=0 time=0.0s
+  r=2 m=4: nodes=24 codes=0 time=0.0s
+  CODE p=7 r=2 m=5
+    w : 11 11111
+    h : 00 11133
+    a1 : 10 15626
+    a2 : 01 16562
+  r=2 m=5: nodes=73 codes=1 time=0.0s
+  r=3 m=4: nodes=13 codes=0 time=0.0s
+TOTAL p=7 n=7 codes=1 time=0.0s
+p=7 n=8 mode=unit-cost d>=3
+  r=2 m=3: nodes=25 codes=0 time=0.0s
+  r=2 m=4: nodes=52 codes=0 time=0.0s
+  r=2 m=5: nodes=81 codes=0 time=0.0s
+  r=2 m=6: nodes=128 codes=0 time=0.0s
+  r=3 m=4: nodes=24 codes=0 time=0.0s
+  r=3 m=5: nodes=74 codes=0 time=0.0s
+TOTAL p=7 n=8 codes=0 time=0.0s

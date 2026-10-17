@@ -1,0 +1,9 @@
+# P10_3: [[10,1,4]]_3^P
+# construction: explicit (shortest unweighted P-code with d>=3, exhaustive search)
+# distance 4: upper bound = explicit Z-logical below; lower bound = exact enumeration of S^perp
+# P-code: rows below are the stabilizers S; the logical row is the all-ones vector
+1 0 0 0 2 1 0 1 2 2
+0 1 0 0 2 2 1 0 1 2
+0 0 1 0 2 2 2 1 0 1
+0 0 0 1 2 1 2 2 1 0
+# witness: 1 0 0 1 2 1 0 0 0 0

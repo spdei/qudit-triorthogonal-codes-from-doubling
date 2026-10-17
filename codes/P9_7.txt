@@ -1,0 +1,9 @@
+# P9_7: [[9,1,4]]_7^P
+# construction: cyclic, support {1,4,6,7}
+# distance 4: upper bound = explicit Z-logical below; lower bound = exact enumeration of S^perp
+# P-code: rows below are the stabilizers S; the logical row is the all-ones vector
+6 3 5 4 2 1 0 0 0
+2 0 0 4 0 0 1 0 0
+0 2 0 0 4 0 0 1 0
+4 2 3 5 6 0 0 0 1
+# witness: 1 5 0 3 1 0 0 0 0

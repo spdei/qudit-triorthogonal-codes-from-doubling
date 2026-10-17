@@ -1,0 +1,7 @@
+runs/p3_n05-16.txt: 3 codes, triorthogonality violations {0}, d_Z values [3] (None = >4)
+runs/p5_n05-12.txt: 6 codes, triorthogonality violations {0}, d_Z values [3] (None = >4)
+runs/p7_weighted_n05-09.txt: 4 codes, triorthogonality violations {0}, d_Z values [3] (None = >4)
+runs/p7_weighted_n10.txt: 3 codes, triorthogonality violations {0}, d_Z values [3] (None = >4)
+runs/p7_unit_n05-08.txt: 1 codes, triorthogonality violations {0}, d_Z values [3] (None = >4)
+runs/p5_n11_all.txt: 65 codes, triorthogonality violations {0}, d_Z values [3] (None = >4)
+runs/p3_n15_all.txt: 36 codes, triorthogonality violations {0}, d_Z values [3] (None = >4)

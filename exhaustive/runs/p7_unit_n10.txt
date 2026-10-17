@@ -1,0 +1,12 @@
+p=7 n=10 mode=unit-cost d>=3
+  r=2 m=3: nodes=38 codes=0 time=0.0s
+  r=2 m=4: nodes=150 codes=0 time=0.0s
+  r=2 m=5: nodes=371 codes=0 time=0.0s
+  r=2 m=6: nodes=865 codes=0 time=0.0s
+  r=3 m=4: nodes=95 codes=0 time=0.0s
+  r=3 m=5: nodes=294 codes=0 time=0.0s
+  r=3 m=6: nodes=614 codes=0 time=0.0s
+  r=3 m=7: nodes=2557 codes=0 time=0.0s
+  r=4 m=5: nodes=145 codes=0 time=0.0s
+  r=4 m=6: nodes=532 codes=0 time=0.0s
+TOTAL p=7 n=10 codes=0 time=0.0s

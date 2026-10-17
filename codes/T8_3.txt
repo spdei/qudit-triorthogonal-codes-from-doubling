@@ -1,0 +1,10 @@
+# T8_3: [[8,1,2]]_3
+# construction: punctured Reed-Muller code, explicit matrix
+# distance 2: upper bound = explicit Z-logical below; lower bound = exhaustive search (no logical of smaller weight)
+# triorthogonal matrix: first row = logical row, then '-', then stabilizer rows
+# weights: all 1
+1 1 1 1 1 1 1 1
+-
+1 2 0 1 2 0 1 2
+0 0 1 1 1 2 2 2
+# witness: 0 0 0 1 0 0 0 1

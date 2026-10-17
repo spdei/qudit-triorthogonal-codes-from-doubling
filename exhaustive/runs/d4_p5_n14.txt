@@ -1,0 +1,12 @@
+p=5 n=14 mode=unit d>=4
+  r=3 m=11: nodes=1287894999 codes=0 time=155816.3s
+TOTAL p=5 n=14 codes=0 time=155816.3s
+p=5 n=14 mode=unit d>=4
+  r=4 m=10: nodes=98843450 codes=0 time=4919.8s
+TOTAL p=5 n=14 codes=0 time=4919.8s
+p=5 n=14 mode=unit d>=4
+  r=5 m=9: nodes=5863496 codes=0 time=173.2s
+TOTAL p=5 n=14 codes=0 time=173.2s
+p=5 n=14 mode=unit d>=4
+  r=6 m=8: nodes=337091 codes=0 time=7.1s
+TOTAL p=5 n=14 codes=0 time=7.1s

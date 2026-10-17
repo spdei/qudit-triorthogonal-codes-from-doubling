@@ -1,0 +1,72 @@
+p=3 n=5 mode=unit d>=3
+TOTAL p=3 n=5 codes=0 time=0.0s
+p=3 n=6 mode=unit d>=3
+TOTAL p=3 n=6 codes=0 time=0.0s
+p=3 n=7 mode=unit d>=3
+  r=3 m=4: nodes=18 codes=0 time=0.0s
+TOTAL p=3 n=7 codes=0 time=0.0s
+p=3 n=8 mode=unit d>=3
+  r=3 m=5: nodes=54 codes=0 time=0.0s
+TOTAL p=3 n=8 codes=0 time=0.0s
+p=3 n=9 mode=unit d>=3
+  r=3 m=6: nodes=192 codes=0 time=0.0s
+  r=4 m=5: nodes=55 codes=0 time=0.0s
+TOTAL p=3 n=9 codes=0 time=0.0s
+p=3 n=10 mode=unit d>=3
+  r=3 m=7: nodes=694 codes=0 time=0.0s
+  r=4 m=6: nodes=198 codes=0 time=0.0s
+TOTAL p=3 n=10 codes=0 time=0.0s
+p=3 n=11 mode=unit d>=3
+  r=3 m=8: nodes=2882 codes=0 time=0.0s
+  r=4 m=7: nodes=831 codes=0 time=0.0s
+  r=5 m=6: nodes=199 codes=0 time=0.0s
+TOTAL p=3 n=11 codes=0 time=0.0s
+p=3 n=12 mode=unit d>=3
+  r=3 m=9: nodes=12385 codes=0 time=0.0s
+  r=4 m=8: nodes=3877 codes=0 time=0.0s
+  r=5 m=7: nodes=838 codes=0 time=0.0s
+TOTAL p=3 n=12 codes=0 time=0.0s
+p=3 n=13 mode=unit d>=3
+  r=3 m=10: nodes=52721 codes=0 time=0.1s
+  r=4 m=9: nodes=23229 codes=0 time=0.0s
+  r=5 m=8: nodes=4263 codes=0 time=0.0s
+  r=6 m=7: nodes=839 codes=0 time=0.0s
+TOTAL p=3 n=13 codes=0 time=0.2s
+p=3 n=14 mode=unit d>=3
+  r=4 m=10: nodes=134003 codes=0 time=0.3s
+  r=5 m=9: nodes=26551 codes=0 time=0.1s
+  r=6 m=8: nodes=4271 codes=0 time=0.0s
+TOTAL p=3 n=14 codes=0 time=0.4s
+p=3 n=15 mode=unit d>=3
+  CODE p=3 r=4 m=11
+    w : 1111 11111111111
+    h : 0000 00001111222
+    a1 : 1000 01220011022
+    a2 : 0100 20121102122
+    a3 : 0010 21020112212
+    a4 : 0001 22101001202
+  CODE p=3 r=4 m=11
+    w : 1111 11111111111
+    h : 0000 00001111222
+    a1 : 1000 01220011022
+    a2 : 0100 20122201211
+    a3 : 0010 21020210102
+    a4 : 0001 22102002101
+  CODE p=3 r=4 m=11
+    w : 1111 11111111111
+    h : 0000 00001111222
+    a1 : 1000 01220011022
+    a2 : 0100 21020101202
+    a3 : 0010 21202002110
+    a4 : 0001 22222111001
+  r=4 m=11: nodes=872969 codes=36 time=2.2s
+  r=5 m=10: nodes=213694 codes=0 time=0.5s
+  r=6 m=9: nodes=27673 codes=0 time=0.1s
+  r=7 m=8: nodes=4272 codes=0 time=0.0s
+TOTAL p=3 n=15 codes=36 time=2.8s
+p=3 n=16 mode=unit d>=3
+  r=4 m=12: nodes=5526926 codes=0 time=16.3s
+  r=5 m=11: nodes=1637267 codes=0 time=5.1s
+  r=6 m=10: nodes=224696 codes=0 time=0.7s
+  r=7 m=9: nodes=27682 codes=0 time=0.1s
+TOTAL p=3 n=16 codes=0 time=22.2s

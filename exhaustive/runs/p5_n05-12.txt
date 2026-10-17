@@ -1,0 +1,66 @@
+p=5 n=5 mode=unit d>=3
+  r=2 m=3: nodes=14 codes=0 time=0.0s
+TOTAL p=5 n=5 codes=0 time=0.0s
+p=5 n=6 mode=unit d>=3
+  r=2 m=4: nodes=61 codes=0 time=0.0s
+TOTAL p=5 n=6 codes=0 time=0.0s
+p=5 n=7 mode=unit d>=3
+  r=3 m=4: nodes=62 codes=0 time=0.0s
+TOTAL p=5 n=7 codes=0 time=0.0s
+p=5 n=8 mode=unit d>=3
+  r=3 m=5: nodes=365 codes=0 time=0.0s
+TOTAL p=5 n=8 codes=0 time=0.0s
+p=5 n=9 mode=unit d>=3
+  r=3 m=6: nodes=2667 codes=0 time=0.0s
+  r=4 m=5: nodes=366 codes=0 time=0.0s
+TOTAL p=5 n=9 codes=0 time=0.0s
+p=5 n=10 mode=unit d>=3
+  r=3 m=7: nodes=23909 codes=0 time=0.1s
+  r=4 m=6: nodes=2682 codes=0 time=0.0s
+TOTAL p=5 n=10 codes=0 time=0.1s
+p=5 n=11 mode=unit d>=3
+  CODE p=5 r=3 m=8
+    w : 111 11111111
+    h : 000 00011144
+    a1 : 100 11223311
+    a2 : 010 12143404
+    a3 : 001 21144340
+  CODE p=5 r=3 m=8
+    w : 111 11111111
+    h : 000 00011144
+    a1 : 100 11223311
+    a2 : 010 14420134
+    a3 : 001 43203232
+  CODE p=5 r=3 m=8
+    w : 111 11111111
+    h : 000 00011144
+    a1 : 100 11223311
+    a2 : 010 34202323
+    a3 : 001 41421043
+  r=3 m=8: nodes=298375 codes=65 time=2.3s
+  r=4 m=7: nodes=25642 codes=0 time=0.1s
+  r=5 m=6: nodes=2683 codes=0 time=0.0s
+TOTAL p=5 n=11 codes=65 time=2.4s
+p=5 n=12 mode=unit d>=3
+  CODE p=5 r=3 m=9
+    w : 111 111111111
+    h : 000 000011144
+    a1 : 100 011223311
+    a2 : 010 204320134
+    a3 : 001 423003232
+  CODE p=5 r=3 m=9
+    w : 111 111111111
+    h : 000 000011144
+    a1 : 100 011223311
+    a2 : 010 204320134
+    a3 : 001 431112110
+  CODE p=5 r=3 m=9
+    w : 111 111111111
+    h : 000 000011144
+    a1 : 100 011223311
+    a2 : 010 211043404
+    a3 : 001 424444340
+  r=3 m=9: nodes=4047603 codes=4020 time=49.3s
+  r=4 m=8: nodes=329011 codes=0 time=2.7s
+  r=5 m=7: nodes=25660 codes=0 time=0.1s
+TOTAL p=5 n=12 codes=4020 time=52.2s

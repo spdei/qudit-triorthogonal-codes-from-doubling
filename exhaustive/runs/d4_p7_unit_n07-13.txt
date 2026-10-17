@@ -1,0 +1,7 @@
+TOTAL p=7 n=7 codes=0 time=0.0s
+TOTAL p=7 n=8 codes=0 time=0.0s
+TOTAL p=7 n=9 codes=0 time=0.0s
+TOTAL p=7 n=10 codes=0 time=0.0s
+TOTAL p=7 n=11 codes=0 time=0.3s
+TOTAL p=7 n=12 codes=0 time=5.8s
+TOTAL p=7 n=13 codes=0 time=89.9s

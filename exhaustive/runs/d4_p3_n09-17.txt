@@ -1,0 +1,10 @@
+TOTAL p=3 n=9 codes=0 time=0.0s
+TOTAL p=3 n=10 codes=0 time=0.0s
+TOTAL p=3 n=11 codes=0 time=0.0s
+TOTAL p=3 n=12 codes=0 time=0.0s
+TOTAL p=3 n=13 codes=0 time=0.2s
+TOTAL p=3 n=14 codes=0 time=0.5s
+TOTAL p=3 n=15 codes=0 time=3.8s
+TOTAL p=3 n=16 codes=0 time=30.6s
+TOTAL p=3 n=17 codes=0 time=256.0s
+P3DONE

@@ -1,0 +1,15 @@
+# P22_3: [[22,1,7]]_3^P
+# construction: cyclic, support {1,2,3,5,6,8,9,10,15,18}
+# distance 7: upper bound = explicit Z-logical below; lower bound = exact enumeration of S^perp
+# P-code: rows below are the stabilizers S; the logical row is the all-ones vector
+1 1 0 1 1 0 2 0 1 2 0 2 1 0 0 0 0 0 0 0 0 0
+1 2 1 1 2 1 2 2 1 0 2 2 0 1 0 0 0 0 0 0 0 0
+1 2 2 2 2 2 0 2 0 0 0 1 0 0 1 0 0 0 0 0 0 0
+2 0 2 1 1 2 0 0 1 1 0 1 0 0 0 1 0 0 0 0 0 0
+2 1 0 1 0 1 0 0 2 2 1 1 0 0 0 0 1 0 0 0 0 0
+2 1 1 2 0 0 2 0 2 0 2 2 0 0 0 0 0 1 0 0 0 0
+1 0 1 2 0 0 2 2 1 1 0 1 0 0 0 0 0 0 1 0 0 0
+2 0 0 0 1 0 1 2 1 2 1 1 0 0 0 0 0 0 0 1 0 0
+2 1 0 2 2 1 1 1 1 2 2 2 0 0 0 0 0 0 0 0 1 0
+1 0 1 1 0 2 0 1 2 0 2 1 0 0 0 0 0 0 0 0 0 1
+# witness: 2 1 1 0 2 2 0 0 2 0 0 1 0 0 0 0 0 0 0 0 0 0
