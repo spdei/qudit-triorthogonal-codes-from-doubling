@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Statements about distillation made in the text of the paper (the cost table itself is checked by seq.py):
+"""Statements about distillation made in the paper (the cost table itself is checked by seq.py):
   1. [[15,1,3]]_3 against the 15-qubit code: at equal infidelity, eps_out ~ 6.25 eps^3 against 35 eps^3,
      thresholds 0.230 against 0.141, acceptance 1 - 15 eps to leading order; at equal depolarizing
      strength, 2.78 delta^3 against 8.75 delta^3, thresholds 0.345 against 0.283, acceptance 0.905 and

@@ -43,12 +43,12 @@ Each log records the runs of `triorth` for the lengths given (CPU times per pair
 | `p5_n05-12.txt`, `p5_n11_all.txt` (`-v`) | 5 | $d\ge3$ | 5–12 |
 | `p7_weighted_n05-09.txt`, `p7_weighted_n10.txt` | 7 | $d\ge3$ | 5–10 |
 | `p7_unit_n05-08.txt`, `p7_unit_n09.txt`, `p7_unit_n10.txt` | 7 | $d\ge3$, `-u` | 5–10 |
-| `d4_p3_n09-17.txt`, `d4_p3_n18.txt` | 3 | `-d 4` | 9–18 |
+| `d4_p3_n09-17.txt`, `d4_p3_n18.txt`, `d4_p3_n19.txt` | 3 | `-d 4` | 9–19 |
 | `d4_p5_n07-12.txt`, `d4_p5_n13.txt`, `d4_p5_n14.txt` | 5 | `-d 4` | 7–14 |
 | `d4_p7_weighted_n07-10.txt`, `d4_p7_weighted_n11.txt` | 7 | `-d 4` | 7–11 |
 | `d4_p7_unit_n07-13.txt` | 7 | `-d 4 -u` | 7–13 |
 
-The logs for $n=18$ ($p=3$), $n=13,14$ ($p=5$) and $n=11$ ($p=7$) were run one process per pair
+The logs for $n=18,19$ ($p=3$), $n=13,14$ ($p=5$) and $n=11$ ($p=7$) were run one process per pair
 (`-rm`) and concatenated; the longest, $p=5$, $n=14$, took 160,916 CPU seconds. `rerun_logs.py` reruns
 the logs and compares node and code counts. `test_crosschecks.txt` and `test_verify_logs.txt` are the
 output of `test_triorth.py` and of `test_triorth.py verify` on the logs containing codes.

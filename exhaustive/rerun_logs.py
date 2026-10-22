@@ -2,7 +2,7 @@
 """Rerun the searches recorded in runs/ and compare everything except CPU times: the node and code counts
 of each (r, m) pair and the code count of each length. Exits nonzero on any difference.
     python3 rerun_logs.py              # the logs that take minutes (d >= 3, and d >= 4 up to n = 17, 12, 10, 13)
-    python3 rerun_logs.py --all        # also the long d >= 4 logs (about 50 CPU hours, mostly p = 5, n = 14)
+    python3 rerun_logs.py --all        # also the long d >= 4 logs (about 60 CPU hours, mostly p = 5, n = 14)
 Needs ./triorth (gcc -O2 -march=native -o triorth triorth.c)."""
 import os, re, sys, subprocess
 HERE = os.path.dirname(os.path.abspath(__file__)); BIN = os.path.join(HERE, 'triorth')
@@ -15,7 +15,8 @@ SHORT = [('p3_n05-16.txt', 3, range(5, 17), []), ('p3_n17.txt', 3, [17], []),
          ('d4_p3_n09-17.txt', 3, range(9, 18), ['-d', '4']), ('d4_p5_n07-12.txt', 5, range(7, 13), ['-d', '4']),
          ('d4_p7_weighted_n07-10.txt', 7, range(7, 11), ['-d', '4']),
          ('d4_p7_unit_n07-13.txt', 7, range(7, 14), ['-u', '-d', '4'])]
-LONG = [('d4_p3_n18.txt', 3, [18], ['-d', '4']), ('d4_p5_n13.txt', 5, [13], ['-d', '4']),
+LONG = [('d4_p3_n18.txt', 3, [18], ['-d', '4']), ('d4_p3_n19.txt', 3, [19], ['-d', '4']),
+        ('d4_p5_n13.txt', 5, [13], ['-d', '4']),
         ('d4_p5_n14.txt', 5, [14], ['-d', '4']), ('d4_p7_weighted_n11.txt', 7, [11], ['-d', '4'])]
 PAIR = re.compile(r'r=(\d+) m=(\d+): nodes=(\d+) codes=(\d+)'); TOT = re.compile(r'TOTAL p=(\d) n=(\d+) codes=(\d+)')
 def facts(text):
