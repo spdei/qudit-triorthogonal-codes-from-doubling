@@ -2,7 +2,7 @@
 
 Shiroman Prakash and K. L. Ramya
 
-Code and data for the paper of the same title (arXiv:XXXX.XXXXX), which describes the codes and the
+Code and data for the paper of the same title (arXiv:2610.29457), which describes the codes and the
 computations. Most checks are routine linear algebra; the substantial computations are the exhaustive
 searches in `exhaustive/` and the weight enumerators used for the distillation statistics.
 
@@ -60,13 +60,14 @@ $\Phi_n$ over $\mathbb F_p$ returned by SymPy. `codes/C40_3.json` is from arXiv:
 ## Citation
 
 ```bibtex
-@misc{PrakashRamya2026doubling,
-  title         = {Short qudit triorthogonal codes from doubling},
-  author        = {Shiroman Prakash and K. L. Ramya},
-  year          = {2026},
-  eprint        = {XXXX.XXXXX},
-  archivePrefix = {arXiv},
-  primaryClass  = {quant-ph}
+@misc{prakash2026shortqudittriorthogonalcodes,
+      title={Short qudit triorthogonal codes from doubling}, 
+      author={Shiroman Prakash and K. L. Ramya},
+      year={2026},
+      eprint={2610.29457},
+      archivePrefix={arXiv},
+      primaryClass={quant-ph},
+      url={https://arxiv.org/abs/2610.29457}, 
 }
 ```
 
